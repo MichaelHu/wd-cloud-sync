@@ -10,7 +10,7 @@
 3. edit file `sync.sh` to change `REMOTE_HOST` configuration item
     
         vi sync.sh
-        REMOTE_HOST=192.168.1.101
+        REMOTE_HOST=192.168.1.105
 
 4. run it: 
 
