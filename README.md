@@ -17,10 +17,18 @@
         sh sync.sh <sync-dir>
 
 
-## sync between 2 servers
+## features
+
+* support unicode file name
+* support spaces in file name
+* support `inc-synchronization`
+
+
+## server combinations
 
 * mybooklive server <-> mybooklive server
 * mybooklive server <-> wdmycloud server
 * wdmycloud server <-> wdmycloud server
+
 
 
